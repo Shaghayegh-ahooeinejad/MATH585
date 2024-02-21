@@ -11,4 +11,6 @@ Here is the the description of the assignment that is needed to be done in order
 4. Merge your two branches back to a single project.
 5. Make your repository public, and email Jane a link to it. Or, if possible, add Jane as a collaborator.
 
-They have been completed.
+
+This is the first branch that is built and we are modifying what is inside of it.
+
