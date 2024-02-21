@@ -1,0 +1,69 @@
+@article{gaston1990population,
+  author    = {Gaston, Anthony J.},
+  title     = {Population Parameters of the Ancient Murrelet},
+  journal   = {The Condor},
+  volume    = {92},
+  number    = {4},
+  pages     = {998--1011},
+  year      = {1990},
+  doi       = {10.2307/1368736},
+  url       = {https://doi.org/10.2307/1368736},
+}
+
+
+@article{pradel2005multievent,
+  author    = {Pradel, Roger},
+  title     = {Multievent: An Extension of Multistate Capture-Recapture Models to Uncertain States},
+  journal   = {Biometrics},
+  volume    = {61},
+  number    = {2},
+  pages     = {442--47},
+  year      = {2005},
+  url       = {http://www.jstor.org/stable/3695963},
+}
+
+
+@article{lorentzen2011modelling,
+  author    = {Lorentzen, Erlend and Choquet, Remi and Steen, Harald},
+  title     = {Modelling State Uncertainty with Photo Series Data for the Estimation of Breeding Success in a Cliff-nesting Seabird},
+  journal   = {Journal of Ornithology},
+  volume    = {152},
+  pages     = {744--483},
+  year      = {2011},
+  doi       = {10.1007/s10336-011-0723-0},
+}
+
+
+@article{gimenez2012estimating,
+  author    = {Gimenez, Olivier and Lebreton, Jean-Dominique and Gaillard, Jean-Michel and Choquet, Rémi and Pradel, Roger},
+  title     = {Estimating Demographic Parameters Using Hidden Process Dynamic Models},
+  journal   = {Theoretical Population Biology},
+  volume    = {82},
+  number    = {4},
+  pages     = {307--316},
+  year      = {2012},
+  doi       = {10.1016/j.tpb.2012.02.001},
+}
+
+@article{pattison2022characterizing,
+  author    = {Pattison, Vivian and Bone, Christopher and Cowen, Laura and O'Hara, Patrick and Wilson, Laurie},
+  title     = {Characterizing Ancient Murrelet (\textit{Synthliboramphus antiquus}) Movement Behaviour During Breeding-Season Foraging Trips Using Hidden Markov Models},
+  journal   = {Ibis},
+  volume    = {165},
+  year      = {2022},
+  doi       = {10.1111/ibi.13173},
+}
+
+@misc{mark_website,
+    author = "Gary White (Colorado State University)",
+    title = "Welcome to the Program MARK Website",
+    howpublished = "\url{http://www.phidot.org/software/mark/docs/book/}",
+    note = "Program MARK, developed and maintained by Gary White (Colorado State University), is the most flexible, widely used application currently available for parameter estimation using data from marked individuals. This website is intended to serve as a portal for various things related to MARK: updated software, documentation, support, training opportunities, and so on.",
+}
+
+@misc{bc_ancient_murrelet,
+  title = {Ancient Murrelet},
+  howpublished = {\url{https://www.env.gov.bc.ca/wld/frpa/iwms/documents/Birds/b_ancientmurrelet.pdf}},
+  note = {Accessed: 2024-02-17}
+}
+}
